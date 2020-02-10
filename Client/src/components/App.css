@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    color: #242b48;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 14px;
+}
+
+span {
+    color: #a7a6ab;
+    font-size: 13px;
+}
+
+input {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #eff1f5;
+    border-radius: 8px;
+    margin: 20px 0;
+    outline: none;
+    margin-right: 5px;
+}
+
+.shipments-container {
+    float: left;
+    width: 100%;
+}
+
+table th {
+    text-transform: capitalize;
+}
+
+.pagination-container {
+    float: left;
+    width: 100%;
+}
+
+.table-pagination {
+    float: right;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.none {
+    display: none !important;
+}
+
+.header-title {
+    float: left;
+    width: 100%;
+    padding: 15px 0;
+    margin-bottom: 15px;
+}
+
+.header-title h3 {
+    margin: 0;
+    width: 50%;
+    float: left;
+}
+
+.user-info {
+    float: right;
+    width: 50%;
+}
+
+.user-info ul {
+    list-style: none;
+    float: right;
+    width: auto;
+}
+
+.user-info ul li {
+    display: inline;
+    float: left;
+    text-align: right;
+    margin-left: 30px;
+    font-size: 15px;
+    line-height: 33px;
+    color: #000;
+}
+
+.big-btn {
+    padding: 15px 0 !important;
+    
+}
+
+.big-btn span {
+    font-size: 14px !important;
+    color: #fff;
+}
+
+.timestamp {
+    color: #bbbbbb;
+    margin: 0;
+}
+
+/**** Toast Override css ****/
+
+body.sessionExpired .notification-container .notification {
+    display:none;
+}
+
+body.sessionExpired .notification-container .notification-info {
+    display: block !important;
+}
+
+.notification-container .notification {
+    background-image: none;
+}
+
+.notification-container .notification-success {
+    background-color:  #4dbd74 !important;
+}
+
+
+.notification-container .notification-error {
+    background-color:  #f86c6b !important;
+}
+
+
+.notification-container .notification-warning {
+    background-color:  #ffc107 !important;
+}
+
+.notification-container .notification-info {
+    background-color:  #63c2de !important;
+}   
+
+.card {
+    text-align: center;
+}
+
+
+/*************************/

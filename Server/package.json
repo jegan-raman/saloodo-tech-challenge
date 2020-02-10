@@ -1,0 +1,21 @@
+{
+    "name": "saloodo-test-server",
+    "version": "1.0.0",
+    "description": "server",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "Jegadeesan",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^3.0.6",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "http-status": "^1.4.2",
+        "lodash": "^4.17.15",
+        "jsonwebtoken": "8.2.1"
+    }
+}

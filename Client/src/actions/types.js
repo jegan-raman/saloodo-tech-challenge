@@ -1,0 +1,15 @@
+export const SHIPMENT_RESET = 'SHIPMENT_RESET';
+export const SHIPMENT_LIST = 'SHIPMENT_LIST';
+export const ASSIGN_SHIPMENT = 'ASSIGN_SHIPMENT';
+export const UPDATE_SHIPMENT = 'UPDATE_SHIPMENT';
+export const SHIPMENT_DASHBOARD = 'SHIPMENT_DASHBOARD';
+
+
+export const USER_RESET = 'USER_RESET';
+export const USER_LIST = 'USER_LIST';
+
+// Auth Actions
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAILURE = 'LOGIN_USER_FAILURE';
+export const LOGOUT_USER = 'LOGOUT_USER';

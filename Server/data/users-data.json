@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "username": "Manager",
+        "email": "manager@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "MANAGER"
+    },
+    {
+        "id": 2,
+        "username": "Biker 1",
+        "email": "biker1@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 3,
+        "username": "Biker 2",
+        "email": "biker2@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 4,
+        "username": "Biker 3",
+        "email": "biker3@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 5,
+        "username": "Biker 4",
+        "email": "biker4@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 6,
+        "username": "Biker 5",
+        "email": "biker5@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 7,
+        "username": "Biker 6",
+        "email": "biker6@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 8,
+        "username": "Biker 7",
+        "email": "biker7@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 9,
+        "username": "Biker 8",
+        "email": "biker8@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 10,
+        "username": "Biker 9",
+        "email": "biker9@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    },
+    {
+        "id": 11,
+        "username": "Biker 10",
+        "email": "biker10@mail.com",
+        "password": "$2b$10$aWV680Ng9X2iX4rzV/OZH.GLF6zFeZQCiXmOSP9LlQ5HS/FbIKJr6",
+        "role": "BIKER"
+    }
+]

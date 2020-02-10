@@ -1,0 +1,6 @@
+{
+    "PORT": 9001,
+    "JWT_SECTET": "Q$#f83nBGJf",
+    "TOKEN_LIFE": "1d",
+    "TOKEN_REPLACE_VALUE": "#1Q6W"
+}

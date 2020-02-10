@@ -1,0 +1,44 @@
+{
+    "name": "saloodo-test",
+    "version": "1.0.0",
+    "description": "Saloodo Tech Challenge",
+    "main": "./src/index.js",
+    "scripts": {
+        "start": "webpack-dev-server",
+        "build": "webpack"
+    },
+    "author": "Jegadeesan",
+    "dependencies": {
+        "@material-ui/core": "^3.9.2",
+        "jwt-decode": "^2.2.0",
+        "lodash": "^4.17.15",
+        "moment": "^2.24.0",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "react-material-ui-form-validator": "^2.0.9",
+        "react-notifications": "^1.4.3",
+        "react-reactstrap-pagination": "^1.0.5",
+        "react-redux": "^5.0.6",
+        "react-router-dom": "^4.3.1",
+        "reactstrap": "^7.1.0",
+        "redux": "^3.7.2",
+        "redux-devtools-extension": "^2.13.8",
+        "redux-thunk": "^2.3.0"
+    },
+    "devDependencies": {
+        "babel-core": "^6.26.0",
+        "babel-eslint": "^7.2.3",
+        "babel-loader": "^7.1.4",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-stage-2": "^6.24.1",
+        "clean-webpack-plugin": "^0.1.19",
+        "babel-plugin-transform-es2015-spread": "^6.22.0",
+        "babel-plugin-transform-object-rest-spread": "^6.26.0",
+        "css-loader": "^0.28.4",
+        "style-loader": "^0.18.2",
+        "webpack": "^3.3.0",
+        "webpack-dev-server": "^2.5.1",
+        "url-loader": "^1.0.1"
+    }
+}
