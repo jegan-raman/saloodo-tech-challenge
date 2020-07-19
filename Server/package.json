@@ -15,7 +15,7 @@
         "cors": "^2.8.5",
         "express": "^4.17.1",
         "http-status": "^1.4.2",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "jsonwebtoken": "8.2.1"
     }
 }
